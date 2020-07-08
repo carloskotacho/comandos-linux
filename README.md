@@ -212,63 +212,72 @@
 <details>
 <summary>📖 Mais comandos - Sistema de arquivos</summary>
 <br />
-
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Espaço em disco</summary>
 <br />
-
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Usuários e grupos</summary>
 <br />
-
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Permissões de arquivos</summary>
 <br />
-
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Atributos especiais de arquivo: (+ = Adiciona e - = Remove permissões)</summary>
 <br />
-
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Arquivos e arquivos compactados</summary>
 <br />
-
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Pacotes RPM (Red Hat, Fedora e derivados)</summary>
 <br />
-
-
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
+	
 </details>
 
 <details>
 <summary>📖 Mais comandos - Pacotes YUM Updater (Red Hat, Fedora e derivados)</summary>
 <br />
-
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Pacotes DEB (Debian, Ubuntu e derivados)</summary>
 <br />
-
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
@@ -276,42 +285,56 @@
 <details>
 <summary>📖 Mais comandos - Atualizador de pacotes APT (Debian, Ubuntu e derivados)</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Exibir o conteúdo de um arquivo</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Manipulação de texto</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Estabelecer o formato de conversão de arquivos</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Análise de sistemas de arquivos</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Formatar sistemas de arquivos</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Backups</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
@@ -319,36 +342,48 @@
 <details>
 <summary>📖 Mais comandos - CD-ROM</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Redes (LAN e Wi-Fi)</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Redes Microsoft Windows (SAMBA)</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Firewall (iptables)</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Monitoramento e depuração</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
 <details>
 <summary>📖 Mais comandos - Dicas e comandos úteis</summary>
 <br />
+	
+- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
 
 </details>
 
