@@ -16,6 +16,10 @@
 
 ## ➤ Tabela de comandos
 
+<details>
+<summary>📖 Comandos</summary>
+<br />
+
 | Comando | Descrição |
 |---------|--------|
 |`[qualquer_comando] -help` | *descrição do comando* |
@@ -89,6 +93,8 @@
 | `make install` | *comando de instaladores* |
 | `dpkg -i [nome_pacote].deb` | *instalar pacotes DEB* |
 | `rpm -Uvh [nome_pacote].rpm` | *instalar um pacote RPM* |
+
+</details>
 
 <details>
 <summary>📖 Mais comandos - Avançados</summary>
@@ -213,7 +219,19 @@
 <summary>📖 Mais comandos - Sistema de arquivos</summary>
 <br />
 	
-- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
+| Comando | Descrição |
+|---------|--------|
+|`mount /dev/hda2 /mnt/hda2` | *monta um disco chamado hda2. Se não possuir o diretório **/ mnt/hda2**, crie-o!* |
+|`umount /dev/hda2` | *remove um disco chamado hda2. Em primeiro lugar, do ponto de ‘ / mnt/hda2* |
+|`fuser -km /mnt/hda2` | *força a remoção quando o dispositivo está ocupado* |
+|`umount -n /mnt/hda2` | *executa a remoção sem ler o arquivo/etc/MTAB* |
+|`mount /dev/fd0 /mnt/floppy` | *monta um disco flexível (disquete)* |
+|`mount /dev/cdrom /mnt/cdrom` | *monta um cdrom/dvdrom* |
+|`mount /dev/hdc /mnt/cdrecorder` | *monta um cd gravável/dvdrom* |
+|`mount /dev/hdb /mnt/cdrecorder` | *monta um cd gravável/dvdrom (um dvd)* |
+|`mount -o loop file.iso /mnt/cdrom` | *monta um arquivo/imagem iso* |
+|`mount -t vfat /dev/hda5 /mnt/hda5` | *monta um sistema de comandos em arquivos FAT32* |
+|`mount /dev/sda1 /mnt/usbdisk` | *monta uma memória/pen-drive USB (sem especificar o tipo de sistema de arquivos)* |
 
 </details>
 
