@@ -14,7 +14,7 @@
  </a>
 </p>
 
-## ➤ Tabela de comandos
+## ➤ Tabelas de comandos
 
 <details>
 <summary>📖 Comandos</summary>
