@@ -122,13 +122,10 @@
 | `cal [mes] [ano]` | *exibir o calendario do mês e ano específicado* |
 | `date 041217002016.00` | *coloca (estado, ajustar) data e hora* |
 | `clock -w` | *salvar alterações para a data na BIOS* |
-
-<!-- 
-| `ls -lSr | more` | *estima o espaço usado pelo diretório 'dir1'* |
-| `du -sk * | sort -rn` | *exibir espaço usado por pacotes RPM instalados e organizados pelo tamanho (Fedora, Red Hat, etc)* |
-| `rpm -q -a –qf ‘%10{SIZE}t%{NAME}n’ | sort -k1,1n` | *exibe o espaço usado por pacotes instalados, organizado pelo tamanho (Debian, Ubuntu, etc)* |
-| `dpkg-query -W -f=’${Installed-Size;10}t${Package}n’ | sort -k1,1n` | *exibe arquivos de swap* |
--->
+| `ls -lSr \| more` | *estima o espaço usado pelo diretório 'dir1'* |
+| `du -sk * \| sort -rn` | *exibir espaço usado por pacotes RPM instalados e organizados pelo tamanho (Fedora, Red Hat, etc)* |
+| `rpm -q -a –qf ‘%10{SIZE}t%{NAME}n’ \| sort -k1,1n` | *exibe o espaço usado por pacotes instalados, organizado pelo tamanho (Debian, Ubuntu, etc)* |
+| `dpkg-query -W -f=’${Installed-Size;10}t${Package}n’ \| sort -k1,1n` | *exibe arquivos de swap* |
 
 </details>
 
