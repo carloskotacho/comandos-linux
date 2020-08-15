@@ -242,11 +242,11 @@
 | Comando | Descrição |
 |---------|--------|
 |`df -h` | *tamanho dos arquivos/diretórios ordenados por tamanho* |
-|`ls -lSr |more` | *estima o espaço usado pelo diretório **dir1*** |
+|`ls -lSr \|more` | *estima o espaço usado pelo diretório **dir1*** |
 |`du -sh dir1` | *tamanho dos arquivos/diretórios ordenados por tamanho* |
-|`du -sk * | sort -rn` | *exibe o espaço usado por pacotes **.rpm** instalados, organizados pelo tamanho (Fedora, Red Hat e outros)* |
-|`rpm -q -a –qf ‘%10{SIZE}t%{NAME}n’ | sort -k1,1n` | *exibe o espaço usado por pacotes instalados e organizados pelo tamanho (Debian, Ubuntu e outros)* |
-|`dpkg-query -W -f=’${Installed-Size;10}t${Package}n’ | sort -k1,1n > g` | *exibe (no Debian ou derivados) uma lista com 25 pacotes instalados que consomem mais espaço (em ordem decrescente)* |
+|`du -sk * \| sort -rn` | *exibe o espaço usado por pacotes **.rpm** instalados, organizados pelo tamanho (Fedora, Red Hat e outros)* |
+|`rpm -q -a –qf ‘%10{SIZE}t%{NAME}n’ \| sort -k1,1n` | *exibe o espaço usado por pacotes instalados e organizados pelo tamanho (Debian, Ubuntu e outros)* |
+|`dpkg-query -W -f=’${Installed-Size;10}t${Package}n’ \| sort -k1,1n > g` | *exibe (no Debian ou derivados) uma lista com 25 pacotes instalados que consomem mais espaço (em ordem decrescente)* |
 
 </details>
 
