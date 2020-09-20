@@ -251,7 +251,21 @@
 <summary>📖 Mais comandos - Usuários e grupos</summary>
 <br />
 	
-- [Workview](https://github.com/carloskotacho/comandos-linux/projects/1)
+| Comando | Descrição |
+|---------|--------|
+|`groupadd nome_grupo` | *criar um grupo* |
+|`groupdel nome_grupo` | *excluir um grupo* |
+|`groupmod -n novo_nome_grupo viejo_nome_novo_grupo` | *renomear um grupo* |
+|`useradd -c “Name Surname ” -g admin -d /home/user1 -s /bin/bash user1` | *criar um novo usuário “admin” do grupo* |
+|`useradd user1` | *criar um novo usuário* |
+|`userdel -r user1` | *excluir um usuário ('-r' elimina o diretório Home)* |
+|`usermod -c “User FTP” -g system -d /ftp/user1 -s /bin/nologin user1` | *alterar os atributos do usuário* |
+|`passwd` | *alterar a senha* |
+|`passwd user1` | *alterar a senha do usuário (apenas pelo root)* |
+|`chage -E 2020-12-22 user1` | *definir um limite de tempo para a senha do usuário (a chave expira a 22 de dezembro de 2020).* |
+|`pwck` | *verificar a sintaxe correta ‘/ etc/passwd’ arquivo formato e a existência de usuários* |
+|`grpck` | *verificar a sintaxe correta e formato do arquivo ‘/ etc/grupo’ e a existência de grupos* |
+|`newgrp group_name` | *registrar um novo grupo para alterar o grupo padrão dos arquivos recém-criados* |
 
 </details>
 
